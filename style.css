@@ -1,0 +1,252 @@
+*  {  
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    } 
+
+    body{
+        background-color: rgb(191, 191, 179);
+        }
+
+    header h3{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 2em;
+        margin-top: 2%;
+        margin-left: 2%;
+        }
+
+    .main h2{
+        text-align: center;
+        margin-top: 10%;
+        font-size: 50px;
+    }
+
+    p{
+        margin-top: 4%;
+        text-align: center;
+        margin-bottom: 4%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: x-large;
+    }
+
+
+    .menu{
+        border: 40px solid white;
+        text-align: center;
+        margin-top: 2%;
+        background-color: white;
+        width: 100%;
+        }
+
+    .des{
+        padding: 1%;
+        color: black;
+        text-decoration: none;
+        font-size: large;
+        }
+
+    .iti{
+        margin-left: 5%;
+        padding: 1%;
+        color: black;
+        text-decoration: none;
+        font-size: large;
+        }
+
+    .rev{
+        margin-left: 5%;
+        padding: 1%;
+        color: black;
+        text-decoration: none;
+        font-size: large;
+        }
+
+    .con{
+        margin-left: 5%;
+        padding: 1%;
+        color: black;
+        text-decoration: none;
+        font-size: large;
+        }
+
+    .paris p {
+        text-align: center;
+        margin-top: 2%;
+        margin-bottom: 28px;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .bali p {
+        text-align: center;
+        margin-top: 2%;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+    }
+    
+    .btn{
+        padding: 10px 20px;
+        background-color: rgb(228, 81, 81);
+        border-radius: 5px;
+        color: white;
+        text-decoration: none;   
+        margin-left: 46%;
+        
+    }
+
+    .heading{
+        font-size: 2em;
+    }   
+
+    .paris img{
+        width: 40%;
+        border-radius: 10px;
+        margin-right: 5%;
+        margin-left: 2%;
+        margin-top: 4%;
+        border: 30px solid white;
+    }
+
+    .paris h4{
+        margin-top: 2%;
+        font-size:x-large ;
+    }
+
+    .bali h4{
+        margin-top: 2%;
+        font-size:x-large ;
+    }
+
+    .bali img{
+        margin-top: 5%;
+        width: 40%;
+        border-radius: 10px;
+        border: 30px solid white;
+    }
+
+
+    .section{
+        padding: 2em 1em;
+        text-align: center;
+        font-size: large;
+        margin-top: 5%;
+        
+    }
+
+    .itia p{
+        margin-top: 2%;
+    }
+
+    .view{
+        padding: 10px 20px;
+        background-color: rgb(228, 81, 81);
+        border-radius: 5px;
+        color: white;
+        text-decoration: none;   
+    }
+
+    .para{
+        margin-bottom: 2%;
+    }
+
+    .itib p{
+        margin-top: 2%;
+    }
+
+    #Itineraries h3{
+        font-size: 2em;
+    }
+
+    #reviews h2{
+        font-size: 2em;
+    }
+
+    .review p{
+        margin-top: 3%;
+        background-color: white;
+        border-radius: 5px;
+        padding: 1rem;
+        max-width: 600px;
+        margin-left: 28%;
+        
+    }
+
+    .review span{
+        font-style: italic;
+    }
+
+    .contact h1{
+        text-align: center;
+        font-size: 2em;
+        margin-top: 5%;
+    }
+    
+    .name{
+        font-size: 30px;
+        color: black;
+        margin-top: 4%;
+        
+    }
+
+    .name input{
+        height: 50px;
+        width: 300px;
+        margin-top: 2%;
+        text-align: center;
+
+    }
+    .email{
+        font-size: 30px;
+        color: black;
+        margin-top: 40px;
+        
+    }
+
+    .email input{
+        height: 50px;
+        width: 300px;
+        margin-top: 2%;
+        text-align: center;
+
+    }
+
+    .message{
+        font-size: 30px;
+        color: black;
+        margin-top: 40px;
+    }
+
+    .message textarea{
+        height: 50px;
+        width: 300px;
+        margin-top: 2%;
+        text-align: center;
+
+    }
+
+    button{
+        margin-top: 40px;
+        width: 10%;
+        height: 50px ;
+        background-color: rgba(0, 0, 255, 0.8);
+        color: white;
+        width: 30%;
+    }
+
+    footer {
+        background: #333;
+        color: #fff;
+        padding: 1rem;
+        text-align: center;
+    }
+    
+    .social-links {
+        margin-top: 1rem;
+    }
+    
+    .social-links a {
+        color: #fff;
+        margin: 0 10px;
+        text-decoration: none;
+    }
